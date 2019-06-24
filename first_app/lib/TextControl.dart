@@ -13,7 +13,7 @@ class Textcontrol extends StatefulWidget{
 } 
 
 class _Textcontrol extends State<Textcontrol>{
-String _words = "I have been here for 1 week now";
+String _words = "I have been";
 
 @override
   Widget build(BuildContext context) {
