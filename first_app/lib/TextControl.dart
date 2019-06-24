@@ -23,7 +23,7 @@ String _words = "I have been here for 1 week now";
               child: RaisedButton(
                 onPressed: () {
                   setState(() {
-                    _words = 'I have been here for 3 weeks now';
+                    _words = 'I have been here for four weeks now';
                   });
                 },
                 child: Text('Change words'),
