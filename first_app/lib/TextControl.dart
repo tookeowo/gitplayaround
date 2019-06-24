@@ -26,7 +26,7 @@ String _words = "I have been here for 1 week now";
                     _words = 'I have been here for 3 weeks now';
                   });
                 },
-                child: Text('Change words'),
+                child: Text('replace words'),
               ),
             ),
             Texts(_words)
